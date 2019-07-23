@@ -1,8 +1,9 @@
-alskdskldfj
-asdfklsdfsd
 
-# Hello
+---
 
-sdfskldjfslkdfj
+title: Photoswipe Gallery Sample
+subtitle: Making a Gallery
+date: 2017-03-20
+tags: ["example", "photoswipe"]
 
-blah
+---
