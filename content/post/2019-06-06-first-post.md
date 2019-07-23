@@ -7,4 +7,4 @@ date: 2015-06-06
 ---
 
   
-From editor
+From the publisher code
