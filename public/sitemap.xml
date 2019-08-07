@@ -4,8 +4,19 @@
   
   <url>
     <loc>https://pages.gitlab.io/hugo/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pages.gitlab.io/hugo/post/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pages.gitlab.io/hugo/post/2019-03-04-ramnani/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -16,12 +27,6 @@
   <url>
     <loc>https://pages.gitlab.io/hugo/post/test/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pages.gitlab.io/hugo/post/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
