@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pages.gitlab.io/hugo/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First post!</title>
+      <link>https://pages.gitlab.io/hugo/post/2019-08-08-other-post/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://pages.gitlab.io/hugo/post/2019-08-08-other-post/</guid>
+      <description>This is matt&amp;rsquo;s first post, how exciting!</description>
+    </item>
     
     <item>
       <title>Test</title>
