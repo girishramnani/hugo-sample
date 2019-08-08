@@ -132,6 +132,11 @@
   </url>
   
   <url>
+    <loc>https://pages.gitlab.io/hugo/post/2019-08-09-matts-post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pages.gitlab.io/hugo/page/about/</loc>
   </url>
   
